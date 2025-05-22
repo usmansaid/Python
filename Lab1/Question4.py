@@ -8,4 +8,4 @@ desksB = int((studentsB + 1) / 2)
 desksC = int((studentsC + 1) / 2)
 
 totalDesks = desksA + desksB + desksC
-print("Total Desks required for " + str(totalDesks))
+print("Total Desks required are: " + str(totalDesks))
