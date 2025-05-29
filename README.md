@@ -1,2 +1,2 @@
 # Python <br>
-<h3>All LAbs are here for Python Practice</h3>
+<h3>All Labs are here and solved for Python Practice</h3>
